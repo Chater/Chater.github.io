@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "FJZEYW9SFJ.com.lesara.app",
+            "paths": ["*", "/"]
+        }]
+    }
+}
