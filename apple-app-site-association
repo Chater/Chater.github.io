@@ -3,7 +3,14 @@
         "apps": [],
         "details": [{
             "appID": "FJZEYW9SFJ.com.lesara.app",
-            "paths": ["*", "/"]
+            "paths": [
+              "NOT */aiuto",
+              "NOT */help",
+              "NOT */hilfe",
+              "NOT */aide",
+              "NOT */hulp",
+              "*",
+              "/"]
         }]
     }
 }
